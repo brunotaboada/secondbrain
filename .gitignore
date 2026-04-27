@@ -1,0 +1,16 @@
+# Obsidian (configurações locais por máquina)
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+
+# Node
+node_modules/
+
+.idea/
+.kilo
